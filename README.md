@@ -2,6 +2,7 @@
 Đồ án môn Lập trình trên thiết bị di động tập trung vào việc xây dựng một ứng dụng App Trắc nghiệm nhằm hỗ trợ người dùng làm bài kiểm tra trực tuyến trên thiết bị di động. Ứng dụng được phát triển bằng Java, giao diện sử dụng Java Swing, kết hợp với Firebase để quản lý dữ liệu và lưu trữ kết quả.
 
 Hệ thống được thiết kế gồm hai phân hệ chính:
+
 Người dùng (User): có thể đăng ký, đăng nhập (bao gồm Google Account), tham gia làm các bài kiểm tra theo thời gian, trả lời câu hỏi, nộp bài, xem kết quả, theo dõi thứ hạng và quản lý thông tin cá nhân.
 
 Quản trị viên (Admin): có quyền thêm, sửa, xóa câu hỏi và bài kiểm tra, cài đặt thông tin kỳ thi, quản lý tài khoản người dùng và theo dõi thống kê kết quả.
